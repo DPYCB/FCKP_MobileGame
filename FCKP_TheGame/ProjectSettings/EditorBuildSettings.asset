@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ee6bb7dfdcf06cb45b34ffe03f3f81b2
+  - enabled: 1
+    path: Assets/Scenes/PartyLevel.unity
+    guid: f05eff9fed85d8c43b8eed52b25bb674
+  - enabled: 1
+    path: Assets/Scenes/GuruLevel.unity
+    guid: 0b21a1b8a94ab574bbcd4b9df9637def
+  - enabled: 1
+    path: Assets/Scenes/LikeLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BitardLevel.unity
+    guid: b28d063daa2f76646926ce68592029b9
+  - enabled: 1
+    path: Assets/Scenes/BarLevel.unity
+    guid: cf9c5af2ead79764f8bd30bfb993ed21
+  - enabled: 1
+    path: Assets/Scenes/Dead.unity
+    guid: cef6d52cb3aff7d4f98fbe9ea3a37885
+  m_configObjects: {}
